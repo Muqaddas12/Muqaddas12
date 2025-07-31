@@ -77,7 +77,14 @@ Welcome to my GitHub profile! I'm a passionate and results-driven full-stack dev
 <div align="center">
 
 ![Muqaddas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muqaddas12\&show_icons=true\&theme=radical\&hide_border=false\&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muqaddas12\&layout=compact\&theme=radical)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Muqaddas12\&theme=radical\&no-bg=true\&no-frame=true\&margin-w=15)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Muqaddas12\&theme=radical\&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Muqaddas12\&label=Profile%20views\&color=blueviolet\&style=flat)
 
 </div>
 
@@ -87,7 +94,7 @@ Welcome to my GitHub profile! I'm a passionate and results-driven full-stack dev
 
 * 📧 Email: [muqaddasmalik781@gmail.com](mailto:muqaddasmalik781@gmail.com)
 * 🔗 LinkedIn: [linkedin.com/in/muqaddas-malik-a65048229](https://www.linkedin.com/in/muqaddas-malik-a65048229)
-* 🌐 Portfolio: [Muqaddas Malik Portfolio]([https://mtbyown.com](https://muqaddas-portfolio-zeta.vercel.app/))
+* 🌐 Portfolio: [Muqaddas Malik Portfolio](https://muqaddas-portfolio-zeta.vercel.app/)
 
 Thanks for visiting! ⭐
 
