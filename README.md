@@ -87,7 +87,7 @@ Welcome to my GitHub profile! I'm a passionate and results-driven full-stack dev
 
 * 📧 Email: [muqaddasmalik781@gmail.com](mailto:muqaddasmalik781@gmail.com)
 * 🔗 LinkedIn: [linkedin.com/in/muqaddas-malik-a65048229](https://www.linkedin.com/in/muqaddas-malik-a65048229)
-* 🌐 Portfolio: [mtbyown.com](https://mtbyown.com)
+* 🌐 Portfolio: [Muqaddas Malik Portfolio]([https://mtbyown.com](https://muqaddas-portfolio-zeta.vercel.app/))
 
 Thanks for visiting! ⭐
 
