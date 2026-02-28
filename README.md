@@ -83,12 +83,6 @@ Welcome to my GitHub profile! <br> Full-Stack Developer | Mobile App Developer |
 
 <div align="center">
 
-![Muqaddas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muqaddas12&show_icons=true&theme=radical&hide_border=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muqaddas12&layout=compact&theme=radical)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Muqaddas12&theme=radical&no-bg=true&no-frame=true&margin-w=15)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Muqaddas12&theme=radical&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Muqaddas12\&label=Profile%20views\&color=blueviolet\&style=flat)
