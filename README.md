@@ -1,56 +1,63 @@
 # 👋 Hi there, I'm Muqaddas Malik
 
-Welcome to my GitHub profile! I'm a passionate and results-driven full-stack developer who loves building impactful digital experiences across web, mobile, and desktop platforms.
+Welcome to my GitHub profile! Full-Stack Developer | Mobile App Developer | Building Scalable Web & Android Applications
 
 ---
 
 ## 🚀 About Me
 
 * 🎯 Career Objective: To contribute my technical expertise and creative problem-solving skills to build scalable, user-centered, and innovative software solutions.
-* 🔭 Currently working on: **BaatPe** – a desi-style smart assistant app for chatting, research, news, and interview prep.
+* What I’m Building: 💡 I focus on building production-ready apps that solve real-world problems and scale to thousands of users.
+* 🔭 Currently working on: DocTools – an all-in-one offline PDF, image, and text utility app with powerful document management and editing features.
 * 💬 Ask me about: **JavaScript**, **React Native**, **Express.js**, **MongoDB**, **Firebase**, and full-stack development.
-* 🛠️ Tech I use: `React` · `React Native` · `Node.js` · `Express.js` · `MongoDB` · `Firebase` · `MySQL` · `EJS` · `Tailwind CSS`
-* 🌱 Learning: Redux, Kotlin, Electron, clean UI/UX principles
+* 🛠️ Tech I use: `React` · `React Native`· `Next.js` · `Node.js` · `Express.js` · `MongoDB` · `Firebase` · `MySQL` · `EJS` · `Tailwind CSS`
+* Currently Exploring AI: 🤖 Exploring AI-driven application features, intelligent automation, and smart system design.
 
+
+## 💡 What Sets Me Apart
+- 🚀 Built and deployed multiple production apps
+- 📱 Experience with Play Store publishing
+- 🔐 Strong foundation in security & cryptography
+- 🧠 Problem-solving mindset with DSA background
+- 🛠️ Full-stack from UI to deployment
 ---
-
 ## 📌 Featured Projects
 
-### 🗣️ BaatPe
+### 🏥 Abhaile Physiotherapy *(Live Platform)*
+ 🔗 https://www.abhailephysiotherapy.ie/
+ 
+**Tech Used:** Next.js  · React · PostgreSQL · Stripe · Tailwind CSS
+> A complete physiotherapy management platform for therapist registration, patient appointment booking, and secure online payments — designed to streamline clinic operations and improve patient experience.
 
-> Desi-smart AI app for casual chat, research, news, interview prep & structured knowledge.
+### 🚀 Instant SMM Boost (Live Platform)
+🔗 https://instantsmmboost.com/
 
-### 📚 E-Library
-
-> Full-stack library system with admin dashboard, book upload, and user access.
-
-### 📱 TrueScan – Document Scanner *(Live on Play Store & Uptodown)*
-
-> Scan, save & share documents on the go with a clean React Native design. Converts images to PDFs with built-in file manager.
+**Tech Used:** Next.js  · React · MongoDB · BharatPay · Tailwind CSS
+> A real-time social media marketing (SMM) panel offering automated services like followers, likes, views, and engagement boosts — built with live order tracking, wallet system, and secure payment integration.
 
 ### 📊 SugResults *(Live on Play Store & Uptodown)*
+🔗 https://play.google.com/store/apps/details?id=com.mtbyown.sugresults&hl=en_IN
+🔗 https://sugresults.en.uptodown.com/android/download
 
+**Tech Used:** React-Native · Java · JavaScript · Node.js · Express
 > Mobile app for Shobhit University students to access academic results. Integrated with university API, with formatted PDF export.
 
-### 🖥️ mtbyown.com *(Live)*
+### 📱 TrueScan – Document Scanner *(Live on Play Store & Uptodown)*
+🔗 https://play.google.com/store/apps/details?id=com.mmbyown.truescandocumentscanner
+🔗 https://truescan-documentsscanner.en.uptodown.com/android
 
+**Tech Used:** React-Native · Java · JavaScript
+> Scan, save & share documents on the go with a clean React Native design. Converts images to PDFs with built-in file manager.
+
+### 🖥️ mtbyown.com *(Live)*
+🔗 https://www.mtbyown.com/
+
+**Tech Used:** Next.js · JavaScript · Tailwind CSS · FormPree
 > Professional services site for building custom web, desktop & mobile apps using modern full-stack tech.
 
-### 🎮 sipligar.com *(Live)*
+### 🛠️ DocTools *(In Development)*
 
-> Experimental entertainment site with illusions, games, and playful tools.
-
-### 🧭 Campus Found and Lost
-
-> DigiCampus-verified mobile platform for locating lost items on campus.
-
-### 🎓 Scholarship Management System
-
-> Secure portal for student scholarship submissions with real-time status updates and admin dashboard.
-
-### 💻 Download Manager for PC *(In Progress)*
-
-> Electron desktop app for batch download management with clean UI and resume support.
+>All-in-one offline utility app for PDF, image, and text tools — including file conversion, compression, merging, editing, and smart document management in one lightweight solution.
 
 ---
 
