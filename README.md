@@ -36,15 +36,15 @@ Welcome to my GitHub profile! Full-Stack Developer | Mobile App Developer | Buil
 > A real-time social media marketing (SMM) panel offering automated services like followers, likes, views, and engagement boosts — built with live order tracking, wallet system, and secure payment integration.
 
 ### 📊 SugResults *(Live on Play Store & Uptodown)*
-🔗 https://play.google.com/store/apps/details?id=com.mtbyown.sugresults&hl=en_IN
-🔗 https://sugresults.en.uptodown.com/android/download
+>🔗 https://play.google.com/store/apps/details?id=com.mtbyown.sugresults&hl=en_IN
+>🔗 https://sugresults.en.uptodown.com/android/download
 
 **Tech Used:** React-Native · Java · JavaScript · Node.js · Express
 > Mobile app for Shobhit University students to access academic results. Integrated with university API, with formatted PDF export.
 
 ### 📱 TrueScan – Document Scanner *(Live on Play Store & Uptodown)*
-🔗 https://play.google.com/store/apps/details?id=com.mmbyown.truescandocumentscanner
-🔗 https://truescan-documentsscanner.en.uptodown.com/android
+>🔗 https://play.google.com/store/apps/details?id=com.mmbyown.truescandocumentscanner
+>🔗 https://truescan-documentsscanner.en.uptodown.com/android
 
 **Tech Used:** React-Native · Java · JavaScript
 > Scan, save & share documents on the go with a clean React Native design. Converts images to PDFs with built-in file manager.
