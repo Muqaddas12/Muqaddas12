@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Muqaddas Malik
 
-Welcome to my GitHub profile! Full-Stack Developer | Mobile App Developer | Building Scalable Web & Android Applications
+Welcome to my GitHub profile! <br> Full-Stack Developer | Mobile App Developer | Building Scalable Web & Android Applications
 
 ---
 
@@ -36,14 +36,14 @@ Welcome to my GitHub profile! Full-Stack Developer | Mobile App Developer | Buil
 > A real-time social media marketing (SMM) panel offering automated services like followers, likes, views, and engagement boosts — built with live order tracking, wallet system, and secure payment integration.
 
 ### 📊 SugResults *(Live on Play Store & Uptodown)*
->🔗 https://play.google.com/store/apps/details?id=com.mtbyown.sugresults&hl=en_IN
+>🔗 https://play.google.com/store/apps/details?id=com.mtbyown.sugresults&hl=en_IN<br>
 >🔗 https://sugresults.en.uptodown.com/android/download
 
 **Tech Used:** React-Native · Java · JavaScript · Node.js · Express
 > Mobile app for Shobhit University students to access academic results. Integrated with university API, with formatted PDF export.
 
 ### 📱 TrueScan – Document Scanner *(Live on Play Store & Uptodown)*
->🔗 https://play.google.com/store/apps/details?id=com.mmbyown.truescandocumentscanner
+>🔗 https://play.google.com/store/apps/details?id=com.mmbyown.truescandocumentscanner <br>
 >🔗 https://truescan-documentsscanner.en.uptodown.com/android
 
 **Tech Used:** React-Native · Java · JavaScript
